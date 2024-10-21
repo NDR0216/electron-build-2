@@ -1,0 +1,11 @@
+appId: com.example.electron-app
+productName: Electron App
+copyright: Copyright 2023 Example
+build:
+  appId: com.example.electron-app
+  win32:
+    target: nsis
+  mac:
+    target: dmg
+  linux:
+    target: deb

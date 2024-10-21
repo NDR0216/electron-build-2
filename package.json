@@ -1,0 +1,17 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder build --mac --win32 --linux"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^32.2.0",
+    "electron-builder": "^25.1.8"
+  }
+}
