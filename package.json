@@ -7,7 +7,10 @@
     "start": "electron .",
     "build": "electron-builder build"
   },
-  "author": "",
+  "author": {
+  "name": "Barney Rubble",
+  "email": "b@rubble.com"
+  },
   "license": "ISC",
   "description": "",
   "devDependencies": {
