@@ -1,7 +1,7 @@
 appId: com.example.electron-app
 productName: Electron App
 copyright: Copyright 2023 Example
-win32:
+win:
   target: nsis
 mac:
   target: dmg
