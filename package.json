@@ -5,7 +5,7 @@
   "main": "main.mjs",
   "scripts": {
     "start": "electron .",
-    "build": "electron-builder build --win --linux"
+    "build": "electron-builder build"
   },
   "author": "",
   "license": "ISC",
